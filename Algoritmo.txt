@@ -1,0 +1,35 @@
+Plan base
+1.Colocar el precio base de la cotización de acuerdo con lo definido por la empresa
+2.Colocar los valores de los recargos de acuerdo con las consideraciones de edad
+	a.Edad entre 18 y 24 años recargo del 10%
+	b.Edad entre 25 y 49 años recargo del 20%
+	c.Edad de 50 años en adelante recargo del 30%
+3.Colocar los valores de los recargos de acuerdo con las consideraciones de las edades por cónyuge
+	a.Edad cónyuge entre 18 y 24 años recargo del 10%
+	b.Edad cónyuge entre 25 y 49 años recargo del 20%
+	c.Edad cónyuge de 50 años en adelante recargo del 30%
+4.Colocar el valor de recargo por hijos
+	a.Cada hijo tendrá un recargo del 20%
+
+Una vez definido el plan base se solicita la siguiente información:
+
+1.Nombre de la persona que requiere la cotización
+2.Edad de la persona que requiere la cotización, solo se da cotización a personas mayores de edad
+3.Se debe consultar a la persona que requiere la cotización si está casada o no
+4.Si la persona esta casada, se debe de consultar la edad del cónyuge
+5.Se debe consultar a la persona que requiere la cotización si tiene hijos
+6.Si la persona tiene hijos, se debe de consultar cuantos hijos tiene
+7.Se debe consultar si la persona cuenta con propiedades
+8.Si la persona cuenta con propiedades, se debe de consultar cuantas propiedades tiene
+9.Se debe consultar si la persona cuenta con un salario
+10.Si la persona cuenta con un salario, se debe de consultar de cuanto es su salario
+
+En base a las respuestas ingresada por la persona que requiere la cotización se deben de mostrar los resultados 
+1.Se debe de calcular el recargo por edad de acuerdo con las consideraciones definidas
+2.Se debe de calcular el recargo por edad del cónyuge si aplicará
+3.Se debe de calcular el recargo por cada hijo
+4.Se debe de calcular el recargo por las propiedades
+5.Se debe de calcular el recargo del 5% sobre su sueldo
+6.Se deben de sumar todos los recargos
+7.Se debe de mostrar el precio final, sumando el precio base más el recargo
+
